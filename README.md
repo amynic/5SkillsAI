@@ -9,11 +9,23 @@ To illustrate each theme we will explore services and tooling from Microsoft Azu
 
 This session will not be the end of your journey, but just the start - I hope to inspire you to want to learn more and help recommend some concrete next steps.
 
+![Take Part in the Cloud Skills Challenge Banner](csc-banner.png)
+
+**Take Part in the GB Group Cloud Skills Challenge - [Click Here](https://docs.microsoft.com/en-gb/learn/challenges?id=1ea9b107-5af1-4df5-b9c7-63608201ff12)**
+
 # The 5 Skills
 
 ## Experimenting
 
-
+* AI Builder:
+    * [Demo](https://youtu.be/Y73cWlzgOmE)
+    * Learning Resources
+* Cognitive Services
+    * Demo
+    * Learning Resources
+* Azure Machine Learning
+    * Demo
+    * Learning Resources
 
 ## Working with Others
 
