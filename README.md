@@ -22,13 +22,14 @@ This session will not be the end of your journey, but just the start - I hope to
 
 * AI Builder:
     * [Demo](https://youtu.be/Y73cWlzgOmE)
-    * Learning Resources
+    * [Learning Resources](https://docs.microsoft.com/learn/paths/bring-ai/)
 * Cognitive Services
-    * Demo
-    * Learning Resources
+    * [Demo](https://youtu.be/w0jygqjLmB0)
+    * [Learning Resources](https://docs.microsoft.com/users/amyboyd/collections/r35dckzpz7327o)
+    * [Extended Learning](https://docs.microsoft.com/users/amyboyd/collections/p3j1cdx1zjz1k8)
 * Azure Machine Learning
-    * Demo
-    * Learning Resources
+    * [Learning Resources](https://docs.microsoft.com/users/amyboyd/collections/nk7oskmdmyd35x)
+    * [Extended Learning](https://docs.microsoft.com/users/amyboyd/collections/ok45szjdq517j2)
 
 ## Working with Others
 
