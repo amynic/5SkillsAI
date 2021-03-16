@@ -40,3 +40,7 @@ Learning Resources on Microsoft Learn:
 ## Responsible AI
 
 * [Microsoft Responsible AI page](www.microsoft.com/ai/responsible-ai-resources)
+* [Responsible ML in Azure Machine Learning](https://docs.microsoft.com/users/amyboyd/collections/1eynbpzr861oqp):
+    * Explore Differential Privacy
+    * Explain Machine Learning Models with Azure Machine Learning
+    * Detect and Mitigate Unfairness in models with Azure Machine Learning
