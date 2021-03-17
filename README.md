@@ -20,19 +20,22 @@ This session will not be the end of your journey, but just the start - I hope to
 
 ## Experimenting
 
-* AI Builder:
+* **AI Builder**
     * [Demo](https://youtu.be/Y73cWlzgOmE)
     * [Learning Resources](https://docs.microsoft.com/learn/paths/bring-ai/)
-* Cognitive Services
+* **Cognitive Services**
     * [Demo](https://youtu.be/w0jygqjLmB0)
     * [Learning Resources](https://docs.microsoft.com/users/amyboyd/collections/r35dckzpz7327o)
     * [Extended Learning](https://docs.microsoft.com/users/amyboyd/collections/p3j1cdx1zjz1k8)
-* Azure Machine Learning
+* **Azure Machine Learning**
     * [Learning Resources](https://docs.microsoft.com/users/amyboyd/collections/nk7oskmdmyd35x)
     * [Extended Learning](https://docs.microsoft.com/users/amyboyd/collections/ok45szjdq517j2)
 
 ## Working with Others
 
+* [Orchastrate Machine Learning Pipelines](https://docs.microsoft.com/en-gb/learn/modules/create-pipelines-in-aml/)
+* [Deploy Real-Time Machine Learning Models](https://docs.microsoft.com/en-gb/learn/modules/register-and-deploy-model-with-amls/?ns-enrollment-type=LearningPath&ns-enrollment-id=learn.data-ai.build-ai-solutions-with-azure-ml-service)
+* [Deploy Batch Inference Models with Azure Machine Learning](https://docs.microsoft.com/en-gb/learn/modules/deploy-batch-inference-pipelines-with-azure-machine-learning/?ns-enrollment-type=LearningPath&ns-enrollment-id=learn.data-ai.build-ai-solutions-with-azure-ml-service)
 
 ## Always Learning
 
@@ -51,7 +54,7 @@ Learning Resources on Microsoft Learn:
 ## Reporting
 
 * [Review a full session on Tailwind Traders Reporting shown](https://aka.ms/aiml21repo)
-* [Tutorial: Consume Azure Machine Learning models in Power BI](https://docs.microsoft.com/power-bi/connect-data/service-aml-integrate?context=azure/machine-learning/context/ml-context)
+* [**Tutorial:** Consume Azure Machine Learning models in Power BI](https://docs.microsoft.com/power-bi/connect-data/service-aml-integrate?context=azure/machine-learning/context/ml-context)
 
 ## Responsible AI
 
@@ -60,3 +63,7 @@ Learning Resources on Microsoft Learn:
     * Explore Differential Privacy
     * Explain Machine Learning Models with Azure Machine Learning
     * Detect and Mitigate Unfairness in models with Azure Machine Learning
+
+## Accessibility
+
+Accessibility is everyones job check out [aka.ms/MicrosoftOneMoreThing](https://aka.ms/MicrosoftOneMoreThing/) to learn more
