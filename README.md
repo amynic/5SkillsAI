@@ -10,7 +10,7 @@ To illustrate each theme we will explore services and tooling from Microsoft Azu
 This session will not be the end of your journey, but just the start - I hope to inspire you to want to learn more and help recommend some concrete next steps.
 
 
-**Take Part in the GB Group Cloud Skills Challenge - [Click Here](https://docs.microsoft.com/en-gb/learn/challenges?id=1ea9b107-5af1-4df5-b9c7-63608201ff12)**
+**Take Part in the GB Group Cloud Skills Challenge - [Click Here](https://docs.microsoft.com/learn/challenges?id=1ea9b107-5af1-4df5-b9c7-63608201ff12&WT.mc_id=aiml-0000-amynic)**
 
 ![Take Part in the Cloud Skills Challenge Banner](csc-banner.png)
 
@@ -22,20 +22,20 @@ This session will not be the end of your journey, but just the start - I hope to
 
 * **AI Builder**
     * [Demo](https://youtu.be/Y73cWlzgOmE)
-    * [Learning Resources](https://docs.microsoft.com/learn/paths/bring-ai/)
+    * [Learning Resources](https://docs.microsoft.com/learn/paths/bring-ai/?WT.mc_id=aiml-0000-amynic)
 * **Cognitive Services**
     * [Demo](https://youtu.be/w0jygqjLmB0)
-    * [Learning Resources](https://docs.microsoft.com/users/amyboyd/collections/r35dckzpz7327o)
-    * [Extended Learning](https://docs.microsoft.com/users/amyboyd/collections/p3j1cdx1zjz1k8)
+    * [Learning Resources](https://docs.microsoft.com/users/amyboyd/collections/r35dckzpz7327o?WT.mc_id=aiml-0000-amynic)
+    * [Extended Learning](https://docs.microsoft.com/users/amyboyd/collections/p3j1cdx1zjz1k8?WT.mc_id=aiml-0000-amynic)
 * **Azure Machine Learning**
-    * [Learning Resources](https://docs.microsoft.com/users/amyboyd/collections/nk7oskmdmyd35x)
-    * [Extended Learning](https://docs.microsoft.com/users/amyboyd/collections/ok45szjdq517j2)
+    * [Learning Resources](https://docs.microsoft.com/users/amyboyd/collections/nk7oskmdmyd35x?WT.mc_id=aiml-0000-amynic)
+    * [Extended Learning](https://docs.microsoft.com/users/amyboyd/collections/ok45szjdq517j2?WT.mc_id=aiml-0000-amynic)
 
 ## Working with Others
 
-* [Orchastrate Machine Learning Pipelines](https://docs.microsoft.com/en-gb/learn/modules/create-pipelines-in-aml/)
-* [Deploy Real-Time Machine Learning Models](https://docs.microsoft.com/en-gb/learn/modules/register-and-deploy-model-with-amls/?ns-enrollment-type=LearningPath&ns-enrollment-id=learn.data-ai.build-ai-solutions-with-azure-ml-service)
-* [Deploy Batch Inference Models with Azure Machine Learning](https://docs.microsoft.com/en-gb/learn/modules/deploy-batch-inference-pipelines-with-azure-machine-learning/?ns-enrollment-type=LearningPath&ns-enrollment-id=learn.data-ai.build-ai-solutions-with-azure-ml-service)
+* [Orchastrate Machine Learning Pipelines](https://docs.microsoft.com/learn/modules/create-pipelines-in-aml/?WT.mc_id=aiml-0000-amynic)
+* [Deploy Real-Time Machine Learning Models](https://docs.microsoft.com/learn/modules/register-and-deploy-model-with-amls/?ns-enrollment-type=LearningPath&ns-enrollment-id=learn.data-ai.build-ai-solutions-with-azure-ml-service&WT.mc_id=aiml-0000-amynic)
+* [Deploy Batch Inference Models with Azure Machine Learning](https://docs.microsoft.com/learn/modules/deploy-batch-inference-pipelines-with-azure-machine-learning/?ns-enrollment-type=LearningPath&ns-enrollment-id=learn.data-ai.build-ai-solutions-with-azure-ml-service&WT.mc_id=aiml-0000-amynic)
 
 ## Always Learning
 
@@ -46,20 +46,20 @@ Communities to get involved with:
 
 Learning Resources on Microsoft Learn:
 * [GB Group Cloud Skills Challenge](https://aka.ms/challenge-gbg)
-* [MS Learn **Power Platform** Collection](https://docs.microsoft.com/users/amyboyd/collections/xzx3a2nznjnq8q)
-* [MS Learn **Azure Cognitive Services** Collection](https://docs.microsoft.com/users/amyboyd/collections/r35dckzpz7327o)
-* [MS Learn **Azure Machine Learning** Collection](https://docs.microsoft.com/users/amyboyd/collections/nk7oskmdmyd35x)
+* [MS Learn **Power Platform** Collection](https://docs.microsoft.com/users/amyboyd/collections/xzx3a2nznjnq8q?WT.mc_id=aiml-0000-amynic)
+* [MS Learn **Azure Cognitive Services** Collection](https://docs.microsoft.com/users/amyboyd/collections/r35dckzpz7327o?WT.mc_id=aiml-0000-amynic)
+* [MS Learn **Azure Machine Learning** Collection](https://docs.microsoft.com/users/amyboyd/collections/nk7oskmdmyd35x?WT.mc_id=aiml-0000-amynic)
 
 
 ## Reporting
 
 * [Review a full session on Tailwind Traders Reporting shown](https://aka.ms/aiml21repo)
-* [**Tutorial:** Consume Azure Machine Learning models in Power BI](https://docs.microsoft.com/power-bi/connect-data/service-aml-integrate?context=azure/machine-learning/context/ml-context)
+* [**Tutorial:** Consume Azure Machine Learning models in Power BI](https://docs.microsoft.com/power-bi/connect-data/service-aml-integrate?context=azure%2Fmachine-learning%2Fcontext%2Fml-context&WT.mc_id=aiml-0000-amynic)
 
 ## Responsible AI
 
 * [Microsoft Responsible AI page](www.microsoft.com/ai/responsible-ai-resources)
-* [Responsible ML in Azure Machine Learning](https://docs.microsoft.com/users/amyboyd/collections/1eynbpzr861oqp):
+* [Responsible ML in Azure Machine Learning](https://docs.microsoft.com/users/amyboyd/collections/1eynbpzr861oqp?WT.mc_id=aiml-0000-amynic):
     * Explore Differential Privacy
     * Explain Machine Learning Models with Azure Machine Learning
     * Detect and Mitigate Unfairness in models with Azure Machine Learning
